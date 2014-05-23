@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+An upstream remote is a remote that is the original source of the files. For instance, if a repository is forked, and that fork is cloned , the cloned repo has an upstream remote that is the original repo from which it's parent was forked.
